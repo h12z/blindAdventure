@@ -37,7 +37,7 @@ body {
   
 #startButtonMainPage {
 
-    background-color: var(--secondary);
+    background-color: var(--background);
     width: 100px;
     height: 50px;
     display: grid;
