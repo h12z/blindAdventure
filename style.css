@@ -17,6 +17,12 @@
     }
 }
 
+* {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
 body {
 
     background-image: linear-gradient(var(--background), var(--secondary));
@@ -29,5 +35,7 @@ body {
     background-color: var(--accent);
     width: 150px;
     height: 100px;
+    display: grid;
+    align-items: center;
 
 }
