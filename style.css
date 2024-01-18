@@ -30,6 +30,9 @@ body {
     background-image: linear-gradient(var(--background), var(--secondary));
     height: 100vh;
 
+    display: grid;
+    align-content: center;
+
 }
   
 #startButtonMainPage {
@@ -40,8 +43,5 @@ body {
     display: grid;
     align-content: center;
     text-align: center;
-
-    margin-left: 50%;
-    margin-top: 50%;
 
 }
