@@ -29,5 +29,7 @@ body {
     background-color: var(--accent);
     left: -50%;
     padding-left: 50%;
+    width: 150px;
+    height: 100px;
 
 }
