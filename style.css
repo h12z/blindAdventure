@@ -37,7 +37,7 @@ body {
   
 #startButtonMainPage {
 
-    background-color: var(--secondary);
+    background-image: linear-gradient(var(--secondary), var(--background));
     width: 150px;
     height: 100px;
     display: grid;
