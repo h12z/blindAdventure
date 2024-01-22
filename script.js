@@ -1,5 +1,5 @@
 document.getElementById('startButtonMainPage').onclick = function() {StartButton()}
 
 function StartButton() {
-  window.open("game/game.html");
+    openInSameWindow("https://h12z.github.io/blindAdventure/game/game.html");
 }
